@@ -6,7 +6,7 @@
     <img src="./assets/animegirl.gif" width="80px" align="right"/>
 </div><br><br><br><br><hr>
 
-
+<img align="right" src="./assets/StarringNight.gif" height="300px" alt="pixel city image">
 -  👋 Hi, I’m Ernest!  <br><br>
 -  🎓 I’m a passionate Computer Science student with a keen interest in software development, algorithms, and problem-solving. I love exploring new technologies and building projects that challenge me to grow as a developer.<br><br>
 -  🔭 I’m currently working on Web development and Mobile apps.  <br><br>
