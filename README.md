@@ -8,11 +8,11 @@
 
 
 -  👋 Hi, I’m Ernest!  <br><br>
--  🎓 I’m a passionate Computer Science student with a keen interest in software development, algorithms, and problem-solving. I love exploring new technologies and building projects that challenge me to grow as a developer.  <br><br>
+-  🎓 I’m a passionate Computer Science student with a keen interest in software development, algorithms, and problem-solving. I love exploring new technologies and building projects that challenge me to grow as a developer.<br><br>
 -  🔭 I’m currently working on Web development and Mobile apps.  <br><br>
 -  🌱 I’m learning Python, Java, Javascript, Html, and Css.  <br><br>
 -  👯 I’m looking to collaborate on open-source projects or innovative tech solutions.  <br><br> 
--  🤔 I’m always open to discussing new ideas or solving interesting problems.<br><hr>
+-  🤔 I’m always open to discussing new ideas or solving interesting problems. <br><hr>
 
 <div align="center">
     <h3> 
