@@ -1,5 +1,5 @@
 <img src="./assets/Animatedline.gif" width="100%"/>
-<img src="./assets/Futuristic-City-bannername.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/Futuristic-City.gif" align="middle" alt="Banner" width="100%"/>
 <img src="./assets/Animatedline.gif" width="100%"/>
 
 <div align="center">
