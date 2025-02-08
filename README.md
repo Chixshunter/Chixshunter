@@ -14,7 +14,10 @@
 -   🔭 I’m currently working on Web development and Mobile apps.  <br><br>
 -   🌱 I’m learning Python, Java, Javascript, Html, and Css.  <br><br>
 -   👯 I’m looking to collaborate on open-source projects or innovative tech solutions.  <br><br> 
--   🤔 I’m always open to discussing new ideas or solving interesting problems. <br>
+-   🤔 I’m always open to discussing new ideas or solving interesting problems. <br><br>
+-   🌟 When I'm not coding, you can find me playing moba games, watching movies or crypto trading.
+
+  Let’s connect and build something amazing together! 😄
 <img src="./assets/separatorline.gif" height="5px" width="100%"/>
 
 <div align="center">
