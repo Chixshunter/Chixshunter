@@ -1,4 +1,5 @@
-<img src="./assets/Futuristic-City-bannername.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/separatorline.gif" height="5px" width="100%"/>
+<img src="./assets/Futuristic-City-bannernamed.gif" align="middle" alt="Banner" width="100%"/>
 
 <div align="center">
     <img src="./assets/animegirl.gif" height="80px" width="100px" align="right"/>
