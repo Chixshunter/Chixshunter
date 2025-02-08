@@ -7,13 +7,14 @@
 </div>
 <img src="./assets/separatorline.gif" height="5px" width="100%"/>
 
-<img align="right" src="./assets/steamer.gif" width="400px" height="311px" alt="pixel city image">
--  👋 Hi, I’m Ernest!  <br><br>
--  🎓 I’m a passionate Computer Science student with a keen interest in software development, algorithms, and problem-solving. I love exploring new technologies and building projects that challenge me to grow as a developer.<br><br>
--  🔭 I’m currently working on Web development and Mobile apps.  <br><br>
--  🌱 I’m learning Python, Java, Javascript, Html, and Css.  <br><br>
--  👯 I’m looking to collaborate on open-source projects or innovative tech solutions.  <br><br> 
--  🤔 I’m always open to discussing new ideas or solving interesting problems. <br>
+<img align="right" src="./assets/steamer.gif" width="300px" height="400px" alt="pixel city image">
+
+- 👋 Hi, I’m Ernest!  <br><br>
+- 🎓 I’m a passionate Computer Science student with a keen interest in software development, algorithms, and problem-solving. I love exploring new technologies and building projects that challenge me to grow as a developer.<br><br>
+-   🔭 I’m currently working on Web development and Mobile apps.  <br><br>
+-   🌱 I’m learning Python, Java, Javascript, Html, and Css.  <br><br>
+-   👯 I’m looking to collaborate on open-source projects or innovative tech solutions.  <br><br> 
+-   🤔 I’m always open to discussing new ideas or solving interesting problems. <br>
 <img src="./assets/separatorline.gif" height="5px" width="100%"/>
 
 <div align="center">
