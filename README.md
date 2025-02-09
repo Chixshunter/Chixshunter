@@ -41,5 +41,13 @@
 
 <img src="./assets/separatorline.gif" height="5px" width="100%"/>
 
+<div align="center">
+    <h2><img src="./assets/cat.gif" width="30px"/>📊 GitHub Stats<img src="./assets/cat.gif" width="30px"/> </h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=Chixshunter&theme=apprentice&no-frame=false&no-bg=true&margin-w=4"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chixshunter&theme=city_lights&hide_border=false"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Chixshunter&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chixshunter&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+<img src="./assets/separatorline.gif" height="5px" width="100%"/>
 <img src="./assets/Gamer-Room.gif" align="middle" alt="Gamerroom" width="100%"/>
 <img src="./assets/separatorline.gif" height="5px" width="100%"/>
