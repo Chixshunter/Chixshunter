@@ -46,7 +46,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Chixshunter&theme=apprentice&no-frame=false&no-bg=true&margin-w=4"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chixshunter&theme=city_lights&hide_border=false"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Chixshunter&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chixshunter&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chixshunter&theme=radical&langs_count=10&card_width=540&layout=compact"/>
+    <img src="https://wakatime.com/share/@Chixshunter/9a2ef2aa-38e7-4457-8efd-faf8eba86d32.svg" width="540px"/>
 </div>
 <img src="./assets/separatorline.gif" height="5px" width="100%"/>
 <img src="./assets/Gamer-Room.gif" align="middle" alt="Gamerroom" width="100%"/>
