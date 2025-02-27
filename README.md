@@ -70,7 +70,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chixshunter&theme=radical&langs_count=10&card_width=540&layout=compact"/>
-    <img src="https://wakatime.com/share/@Chixshunter/d3f76e4a-80b1-4c22-9dc9-a99c25582636.svg" width="540px"/>
+    <img src="https://wakatime.com/share/@Chixshunter/c66db64a-c1c5-4eff-ab56-bae4f4bfff52.svg" width="540px"/>
 </div>
 
 <img src="./assets/separatorline.gif" height="5px" width="100%"/>
