@@ -8,7 +8,7 @@
 </div>
 <img src="./assets/separatorline.gif" height="5px" width="100%"/>
 
-<img align="right" src="./assets/steamer.gif" width="300px" height="400px" alt="pixel city image">
+<img align="right" src="./assets/steamer.gif" width="300px" height="500px" alt="pixel city image">
 
 - 👋 Hi, I’m Ernest!  <br><br>
 - 🎓 I’m a passionate Computer Science student with a keen interest in software development, algorithms, and problem-solving. I love exploring new technologies and building projects that challenge me to grow as a developer.<br><br>
@@ -19,6 +19,8 @@
 -   🌟 When I'm not coding, you can find me playing moba games, watching movies or crypto trading.
 
   Let’s connect and build something amazing together! 😄
+
+<a href="https://www.buymeacoffee.com/Chixshunter"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Chixshunter&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 <img src="./assets/separatorline.gif" height="5px" width="100%"/>
 
 <div align="center">
